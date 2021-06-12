@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".AddNewDeviceActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_new_device"
+        android:gravity="center"
+        android:textColor="@color/purple_700"
+        android:textSize="28sp"
+        />
+
+    <EditText
+        android:id="@+id/ime_uredjaja_ovog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ime_uredjaja"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/purple_700"
+
+        />
+
+
+
+    <EditText
+        android:id="@+id/tip_uredjaja_ovog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tip_uredjaja"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/purple_700"
+        />
+
+    <Button
+        android:id="@+id/dugme_sacuvaj_ovog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/sacuvaj"
+        android:textSize="15sp"/>
+</LinearLayout>

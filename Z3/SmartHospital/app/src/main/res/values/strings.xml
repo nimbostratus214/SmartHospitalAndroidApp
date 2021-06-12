@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartHospital</string>
+    <string name="smart_hospital">Smart Hospital</string>
+    <string name="register">Registruj se</string>
+    <string name="signup">Prijavi se</string>
+    <string name="ime">Ime:</string>
+    <string name="prezime">Prezime: </string>
+    <string name="pol">Pol:</string>
+    <string name="rodjenje">Datum rođenja:</string>
+    <string name="password">Lozinka</string>
+    <string name="submit">SUBMIT</string>
+    <string name="login">Lista vaših pregleda: </string>
+    <string name="prijava">Prijava</string>
+    <string name="neaktivan">NEAKTIVAN</string>
+
+
+    <string name="hint1">Uneti ime</string>
+    <string name="hint2">Uneti prezime</string>
+    <string name="hint3">M</string>
+    <string name="hint4">Ž</string>
+    <string name="hint5">Ostalo</string>
+    <string name="hint6">Uneti lozinku</string>
+    <string name="hint7">Username</string>
+    <string name="hint8">Password</string>
+    <string name="hint9">Username je:</string>
+    <string name="device_activity">Device Activity</string>
+    <string name="admin">Admin</string>
+
+
+</resources>
